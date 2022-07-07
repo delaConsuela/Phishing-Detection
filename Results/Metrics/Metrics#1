@@ -1,0 +1,10 @@
+Random Forest with 100 trees has:
+OOB score: 0.98255
+number of features seen in fit: 15
+Classifier accuracy:  0.9866529774127311
+Classifier recall:  0.9794871794871794
+Classifier precision:  0.9937565036420395
+
+Classifier accuracy test:  0.97947
+Classifier recall test:  0.9771
+Classifier precision test:  0.98462
