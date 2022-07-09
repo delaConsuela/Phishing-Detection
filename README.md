@@ -11,7 +11,7 @@ Due to limited API calls a day, for each of these features we created separated 
 ### Dataset
 The malicious dataset was gathered from **PhishTank**'s online database, a platform where possible phishing sites can be submitted which are subsequently verified.
 
-For benign dataset, my friend created a web scraper to get some benign domains from the website (https://botw.org/).
+For benign dataset, my friend created a web scraper to get some benign domains from the website https://botw.org/.
 
 In total, we collected 2435 URLs:
 - 1237 phishing.
